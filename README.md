@@ -6,9 +6,9 @@ Aquifer is a collaborative effort between [Stefano D'Alessio](https://stefanodal
 
 The device uses 2 Impulse responses: one recorded at the Škocjan cave and the other at Aurisina aqueduct tunnel.
 
-The "Aquifer" folder contains the .amxd
-The "Aquifer Project" contains the generated Max project folder resulting from unfreezing the device
-Aquifer.maxpat is the device saved as max patch file
+- The "Aquifer" folder contains the .amxd
+- The "Aquifer Project" contains the generated Max project folder resulting from unfreezing the device
+- Aquifer.maxpat is the device saved as max patch file
 
 Special features:
 - Parameters for both reverbs are editable
