@@ -1,12 +1,11 @@
 # Aquifer
 
-Dual IR reverb M4L device
+Reactive dual reverb - M4L device
 
 The device uses 2 Impulse responses: one recorded at the Škocjan cave and the other at Aurisina aqueduct tunnel.
 
 - The "Aquifer" folder contains the .amxd
-- The "Aquifer Project" contains the generated Max project folder resulting from unfreezing the device
-- The Aquifer.maxpat is the device saved as max patch file
+- The "AquiferMaxProject" is Aquifer as a Max project (with a loop ready to be played and additional dac~ as output)
 
 Special features:
 - Parameters for both reverbs are editable
