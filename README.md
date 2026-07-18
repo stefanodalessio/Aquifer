@@ -1,6 +1,6 @@
 # Aquifer
 
-![[Aquifer.png]]
+![](Aquifer.png)
 
 Reactive dual reverb - M4L device
 
@@ -12,21 +12,23 @@ The device uses 2 Impulse responses: one recorded at the Škocjan cave and the o
 Special features:
 - Parameters for both reverbs are editable
 - Distortion stages: pre and post reverbs 
-- Envelope followers to modulate wet/dry mix and reverb mix.
+- Envelope followers to modulate Mix (wet/Dry) and roomMix (balance between the 2 reverbs).
 
 Aquifer has been developed in the framework of "SCAPES_under"
 A project by
 Liminal Research ETS
 
 **With the support of**
-Regione Autonoma Friuli Venezia Giulia
-Comune di Staranzano, Festival dell’Acqua di Staranzano
+- Regione Autonoma Friuli Venezia Giulia
+- Comune di Staranzano
+- Festival dell’Acqua di Staranzano
 
 **Partners**
-GTS Gruppo Triestino Speleologi, Skocjanske Jame Park.
+- GTS Gruppo Triestino Speleologi
+- Skocjanske Jame Park.
 
-Credits:
-[Stefano D'Alessio](https://stefanodalessio.github.io/),
-[Liminal Research](https://www.liminalresearch.eu/),
-[Andrea Peluso](https://andrea-peluso.it),
-[Mauricio Valdes San Emeterio](https://mvsanemeterio.wixsite.com/mauriciovaldes)
+**Credits**
+- [Stefano D'Alessio](https://stefanodalessio.github.io/)
+- [Liminal Research](https://www.liminalresearch.eu/)
+- [Andrea Peluso](https://andrea-peluso.it)
+- [Mauricio Valdes San Emeterio](https://mvsanemeterio.wixsite.com/mauriciovaldes)
