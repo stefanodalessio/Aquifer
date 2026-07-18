@@ -1,5 +1,7 @@
 # Aquifer
 
+![[Aquifer.png]]
+
 Reactive dual reverb - M4L device
 
 The device uses 2 Impulse responses: one recorded at the Škocjan cave and the other at Aurisina aqueduct tunnel.
@@ -24,7 +26,7 @@ Comune di Staranzano, Festival dell’Acqua di Staranzano
 GTS Gruppo Triestino Speleologi, Skocjanske Jame Park.
 
 Credits:
-[Stefano D'Alessio](https://stefanodalessio.github.io/), 
-[Liminal Research](https://www.liminalresearch.eu/), 
-[Andrea Peluso](https://andrea-peluso.it) 
+[Stefano D'Alessio](https://stefanodalessio.github.io/),
+[Liminal Research](https://www.liminalresearch.eu/),
+[Andrea Peluso](https://andrea-peluso.it),
 [Mauricio Valdes San Emeterio](https://mvsanemeterio.wixsite.com/mauriciovaldes)
